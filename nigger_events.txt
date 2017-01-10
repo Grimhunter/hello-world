@@ -1,0 +1,10 @@
+namespace = nigger
+
+country_event = {
+	id = nigger.1
+	desc = nigger.1.desc
+	
+	option = {
+		name = nigger.1.a
+	}
+}
